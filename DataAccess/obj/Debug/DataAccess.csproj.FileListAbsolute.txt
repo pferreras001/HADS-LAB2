@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\bin\Debug\DataAccess.dll
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\bin\Debug\DataAccess.pdb
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\obj\Debug\DataAccess.dll
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\obj\Debug\DataAccess.pdb
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\bin\Debug\Mailing.dll
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\bin\Debug\Mailing.pdb
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

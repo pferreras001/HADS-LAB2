@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\Mailing\bin\Debug\Mailing.dll
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\Mailing\bin\Debug\Mailing.pdb
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\Mailing\obj\Debug\Mailing.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\Mailing\obj\Debug\Mailing.dll
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\Mailing\obj\Debug\Mailing.pdb
+\\Mac\Home\Documents\UNI\HADS\proyectos\Lab2\Mailing\obj\Debug\Mailing.csprojAssemblyReference.cache
